@@ -1,0 +1,2 @@
+# Work Log
+Introduce a dedicated service layer for external API calls
